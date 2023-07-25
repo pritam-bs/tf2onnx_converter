@@ -1,0 +1,4 @@
+tensorflow
+keras
+tf2onnx
+numpy==1.23.1
